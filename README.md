@@ -1,4 +1,4 @@
-jtalkington.github.com
+jtalkington.github.io
 ======================
 
-Jerry Talkington's code repository.
+Jerry Talkington's GitHub user pages.
